@@ -120,12 +120,6 @@
       "link":"https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1359"
     },
     { 
-      "modId": "c2me",
-      "modName": "C2ME", 
-      "desc": "Chunk loading and portal creation may not work normally.",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1036"
-    },
-    { 
       "modId": "fabrictailor", 
       "modName": "Fabric Tailor", 
       "desc": "The game will malfunction when skin changes.",
