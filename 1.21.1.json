@@ -1,6 +1,6 @@
 {
-  "latestReleaseVersion": "6.0.5",
-  "previewVersions": ["6.0.6"],
+  "latestReleaseVersion": "6.0.9",
+  "previewVersions": [],
   "severelyIncompatible": [
     { 
       "modId": "mcxr-core", 
@@ -10,7 +10,6 @@
     },
     { "modId": "taterzens", "modName": "Taterzens"},
     { "modId": "altoclef", "modName": "Altoclef"},
-    { "modId": "vs_eureka", "modName": "Eureka Airships" },
     { "modId": "backslot", "modName": "BaskSlot" },
     { 
       "modId": "multiworld", "modName": "MultiWorld",
@@ -29,6 +28,12 @@
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1469"
     },
     { 
+      "modId": "simpleclouds", 
+      "modName": "Simple Clouds", 
+      "desc":"Clouds will render over blocks When viewing a portal.",
+      "link": "https://github.com/nonamecrackers2/simple-clouds/issues/226"
+    },
+    { 
       "modId": "worldthreader", 
       "modName": "Dimensional Threading (World Threader)", 
       "desc":"",
@@ -43,13 +48,13 @@
     { 
       "modId": "voxy", 
       "modName": "Voxy", 
-      "desc":"",
+      "desc":"Portal rendering May not work Correctly Better to use https://github.com/Digitalgaming1/voxyIP-Compat",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1524"
     },
     { 
       "modId": "vivecraft", 
       "modName": "Vivecraft", 
-      "desc": "Protal rendering and teleportation may be abnormal.",
+      "desc": "Portal rendering and teleportation may be abnormal.",
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1427"
     }
   ],
@@ -77,7 +82,6 @@
       "desc": "The Twilight Forest map sometimes doesn't work."
     },
     { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
-    { "modId": "lod", "modName": "Distant Horizons" },
     { 
       "modId": "entityculling", 
       "modName": "Entity Culling", 
@@ -147,7 +151,7 @@
       "modId": "collective", 
       "modName": "Collective", 
       "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1222", 
-      "desc":"Entity may be invisible when looking at portal" 
+      "desc":"Entities may be invisible when looking at a portal. And not completely breaking a block will cause that block to be invisible or replaced with something else On the client." 
     }
   ],
   "incompatibleShaderpacks": [
