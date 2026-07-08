@@ -78,11 +78,6 @@
     },
     { "modId": "vmp", "modName": "VMP", "link": "https://github.com/RelativityMC/VMP-fabric/issues/2" },
     { "modId": "lod", "modName": "Distant Horizons" },
-    { 
-      "modId": "entityculling", 
-      "modName": "Entity Culling", 
-      "desc": "Entities may be invisible when looking at a portal." 
-    },
     { "modId": "victus", "modName": "Victus", "desc": "Makes portal invisible when using shaders" },
     { 
       "modId": "shouldersurfing", 
