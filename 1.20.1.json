@@ -63,7 +63,7 @@
       "modId": "voxy", 
       "modName": "Voxy", 
       "desc":"LOD chunks may render incorrectly. Shaders also crash, but it can be fixed by using the below fork.",
-      "link": "https://github.com/Digitalgaming1/voxyIP-Compat"
+      "link": "https://github.com/DigitalWolf1313/voxyIP-Compat"
     },
     { 
       "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally.",
