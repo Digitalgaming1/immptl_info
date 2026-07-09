@@ -62,8 +62,8 @@
     { 
       "modId": "voxy", 
       "modName": "Voxy", 
-      "desc":"Portal rendering May not work Correctly Better to use This fork To fix shader packs https://github.com/Digitalgaming1/voxyIP-Compat",
-      "link": "https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1524"
+      "desc":"Portal rendering May not work Correctly Better to use This fork To fix shader packs",
+      "link": "https://github.com/Digitalgaming1/voxyIP-Compat https://github.com/iPortalTeam/ImmersivePortalsMod/issues/1524"
     },
     { 
       "modId": "cameraoverhaul", "modName": "Camera Overhaul", "desc": "Portal may get rendered abnormally.",
