@@ -30,8 +30,8 @@
     { 
       "modId": "aeronautics_bundled", 
       "modName": "Sable", 
-      "desc":"There are so many issues. Work has been done to just make the game launch, but please use the below fork instead of this fork. To fix some of its issues",
-      "link": "https://github.com/r2smith141/IPSable"
+      "desc":"Sable Sublevels may not function correctly. Seats and gyroscopic propeller bearings are currently broken on sublevels (client-side only, not game-breaking).",
+      "link": "https://github.com/ryanhcode/sable/issues/155"
     },
     { 
       "modId": "worldthreader", 
